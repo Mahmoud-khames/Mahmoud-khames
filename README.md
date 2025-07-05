@@ -42,7 +42,7 @@
 
   <!-- DevOps & Cloud -->
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1667821066/brand/logo/psd/Cloudinary_Logomark_Stacked_Blue_RGB_1_uh5hi1.png" alt="Cloudinary" width="40" height="40"/>
+
 
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
